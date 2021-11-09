@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TextView Line Splitter Demo</string>
+    <string name="story_text">Material is an adaptable system of guidelines, components, and tools that support the best practices of user interface design. Backed by open-source code, Material streamlines collaboration between designers and developers, and helps teams quickly build beautiful products.</string>
+</resources>
